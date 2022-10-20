@@ -1,9 +1,3 @@
-element {
-  font-size: 75;
-}
-### Hi there 👋
-
-
 <!--
 **KenChiang1997/KenChiang1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +11,9 @@ element {
 - ⚡ Fun fact: ...
 -->
 
+element {
+  font-size: 75;
+}
 # Education:
 |   |   |
 |---|---|
