@@ -14,6 +14,6 @@
 -->
 
 # Education:
-| --- | --- |
+&nbsp; |&nbsp;
 | 09/2020 - 06/2022 | National Tsing Hua University, MSc Quantitative Finance |
 | 09/2027 - 06/2020 | Chang Gung University, BSc Electronic Engineering |
