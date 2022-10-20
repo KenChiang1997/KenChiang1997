@@ -17,7 +17,7 @@
   <tr>
     <td>09/2020 - 06/2022</td>
     <td>
-      <b>MSc,
+      <b>Master Degree,
       <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
       <a href="https://qf.site.nthu.edu.tw/">Department of Quantitative Finance</a></b>
     </td>
@@ -25,7 +25,7 @@
   <tr>
     <td>09/2017 - 06/2020</td>
     <td>
-      <b>BSc,
+      <b>Bachelor Degree,
       <a href="https://www.cgu.edu.tw/">Chang Gung University</a>, 
       <a href="https://elec.cgu.edu.tw//">Department of Electronic Engineering</a></b>
     </td>
