@@ -11,8 +11,24 @@
 - ⚡ Fun fact: ...
 -->
 
-# Education:
-|   |   |
-|---|---|
-| 09/2020 - 06/2022 | National Tsing Hua University, MSc Quantitative Finance |
-| 09/2017 - 06/2020 | Chang Gung University, BSc Electronic Engineering |
+---
+<h2 align="left">Education:</h2>
+<table align="center">
+  <tr>
+    <td>09/2020 - 06/2022</td>
+    <td>
+      <b>Master of 
+      <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
+      <a href="https://qf.site.nthu.edu.tw/">Department of Quantitative Finance</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>09/2017 - 06/2020</td>
+    <td>
+      <b>Bachelor of 
+      <a href="https://www.cgu.edu.tw/">Chang Gung University</a>, 
+      <a href="https://elec.cgu.edu.tw//">Department of Electronic Engineering</a></b>
+    </td>
+  </tr>
+</table>
+---
