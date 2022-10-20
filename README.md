@@ -11,10 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-@settings {
-  font-size: 100;
-}
-
 # Education:
 |   |   |
 |---|---|
