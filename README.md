@@ -11,9 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
-element {
-  font-size: 75;
+@settings {
+  font-size: 100;
 }
+
 # Education:
 |   |   |
 |---|---|
