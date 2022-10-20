@@ -11,8 +11,8 @@
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi there!</h2>
-Currently a contractor in the Invesco GDS Taipei team. Previous regtech development and data analyst intern at Nomura Asset Management in Taiwan. Received a master's degree in quantitative finance from NTHU, and a bachelor's degree in electronic engineering from CGU.
+<h2 align="left">Hi there 👋</h2>
+I am currently a contractor in the Invesco GDS Taipei team. Previous regtech development and data analyst intern at Nomura Asset Management in Taiwan. Received a master's degree in quantitative finance from NTHU, and a bachelor's degree in electronic engineering from CGU. Passion about data analysis in financial market.
 
 ---
 <h2 align="left">Education:</h2>
