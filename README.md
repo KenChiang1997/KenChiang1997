@@ -44,9 +44,6 @@ I am currently a contractor in the Invesco GDS Taipei team. Previous regtech dev
 <a href="mailto:qw930338@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 📄 Know about my experiences [www.linkedin.com/in/chen-li-chiang](www.linkedin.com/in/chen-li-chiang)
-
-
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
