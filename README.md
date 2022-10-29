@@ -36,10 +36,3 @@ I am currently a contractor in the Invesco GDS Taipei team. Previous regtech dev
 </table>
 
 ---
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">  
-<a href="mailto:qw930338@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
