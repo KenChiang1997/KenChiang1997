@@ -12,7 +12,7 @@
 -->
 
 <h2 align="left">Hi there👋</h2>
-Part-Time Quant and Data Engineer at Tarobo Investment Advisor. Previous Data Analyst intern at Nomura Asset Management and GDS Contractor in Invesco. Received a Master's degree in Quantitative Finance from NTHU, and a Bachelor's degree in Electronic Engineering from CGU. Passion about systematic factor, data science, machine learning in finance.
+Part-Time Quant and Data Engineer at Tarobo Investment Advisor. Previous Data Analyst intern at Nomura Asset Management and GDS Contractor in Invesco. Received a Master's degree in Quantitative Finance from NTHU, and a Bachelor's degree in Electronic Engineering from CGU. Passion about systematic factor, data science, and machine learning in finance.
 
 ---
 <h2 align="left">Education 🏫</h2>
