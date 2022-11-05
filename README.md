@@ -12,7 +12,7 @@
 -->
 
 <h2 align="left">Hi there👋</h2>
-Previous Data Analyst intern at Nomura Asset Management and GDS Contractor in Invesco. Received a Master's degree in Quantitative Finance from NTHU, and a Bachelor's degree in Electronic Engineering from CGU. Passion about Systematic Factor, Data Science, and Machine Learning in finance.
+Previous Data Analyst intern at Nomura Asset Management and GDS Contractor in Invesco. Received a Master's degree in Quantitative Finance from NTHU, and a Bachelor's degree in Electronic Engineering from CGU. Passion about Systematic Factor, Data Science, and Machine Learning in Financial Market.
 
 ---
 <h2 align="left">Education 🏫</h2>
