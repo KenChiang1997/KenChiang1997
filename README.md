@@ -26,7 +26,7 @@ Previous Data Analyst intern at Nomura Asset Management and GDS Contractor in In
     </td>
   </tr>
   <tr>
-    <td>09/2017 - 06/2020</td>
+    <td>09/2016 - 06/2020</td>
     <td>
       <b>Bachelor Degree,
       <a href="https://www.cgu.edu.tw/">Chang Gung University</a>, 
