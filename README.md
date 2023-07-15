@@ -12,7 +12,7 @@
 -->
 
 <h2 align="left">Hi there👋</h2>
-Previous Data Analyst Intern at Nomura Asset Management and GDS Contractor in Invesco. Received a Master's degree in Quantitative Finance from NTHU, and a Bachelor's degree in Electronic Engineering from CGU. Ken is passionate about Systematic Factors, Optimization Applications, and Data Science in Financial Market.
+Previous Data Analyst Intern at Nomura Asset Management and GDS Contractor at Invesco. Received a Master's degree in Quantitative Finance from NTHU, and a Bachelor's degree in Electronic Engineering from CGU. Ken will pursue another postgraduate degree in computational finance at King's College London from Sep. 2023 to Sep. 2024, and he loves to discuss any relevant topics including Systematic Factors, Optimization Applications, and Data Science in Financial Market.
 
 ---
 
